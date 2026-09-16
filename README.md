@@ -1,1 +1,2 @@
-# embedded_swlib
+# sw_library
+Multiple customized embedded software libraries.
